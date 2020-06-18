@@ -4,5 +4,5 @@ No olvidar instalar los paquetes
 
 
 ```
-npm instal 
+npm install 
 ```
